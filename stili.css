@@ -17,6 +17,10 @@ telo {
 	width: calc(100% - 50px);
 	overflow: auto;
 	padding: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border: 1px solid transparent; 
+	border-color: #C30C21; 
+	border-radius: 4px; 
 }
 
 .stroboskop {
@@ -40,8 +44,16 @@ telo {
     background: white;
     height: 50px;
     font-size: 18px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border: 1px solid transparent; 
+	border-color: #C30C21; 
+	border-radius: 4px; 
 }
 
 #novaBarva, #odstraniBarve {
 	background: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border: 1px solid transparent; 
+	border-color: #C30C21; 
+	border-radius: 4px; 
 }
